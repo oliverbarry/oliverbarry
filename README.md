@@ -1,2 +1,2 @@
-- 👋 Hi, I’m @oliverbarry
+- 👋 Hi, I’m @oliverbarry, welcome to my github!
 - 👀 I’m interested in anything that's mildly cool.
